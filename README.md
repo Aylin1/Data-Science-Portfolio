@@ -1,2 +1,2 @@
 # Data-Science-Portfolio
-Data science projects ranging from simple to complex ones by using Python and R 
+Data science projects ranging from simple to complex by using Python and R 
