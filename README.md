@@ -8,4 +8,5 @@ Regression Problems
   4. Polynomial Regression (CO2 Emission Prediction - Fuel Consumption Dataset) 
 
 Classification Problems
+  1. K Nearest Neighbors (Telecommunication Customer Dataset)
 
