@@ -10,3 +10,5 @@ Regression Problems
 Classification Problems
   1. K Nearest Neighbors (Telecommunication Customer Dataset)
 
+Both Classification & Regression Problems
+  1. Decision Trees (Drug Dataset)
